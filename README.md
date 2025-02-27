@@ -17,6 +17,7 @@ This repository contains the security audit reports for **Satoshi Protocol**, co
 
 ### **Satoshi Farm Audits**  
 - 📄 **Satoshi_Farm_Audit_Report_Billh.pdf**
+- 📄 **Satoshi_Farm_Audit_Report_Zenith.pdf**
 
 ## **Purpose of These Audits**  
 The security audits focus on:  
