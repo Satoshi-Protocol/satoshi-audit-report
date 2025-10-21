@@ -1,23 +1,27 @@
-**README.md – Satoshi Protocol Audit Reports**  
+**README.md – River Audit Reports**  
 
-# **Satoshi Protocol Audit Reports**  
+# **River Audit Reports**  
 
-This repository contains the security audit reports for **Satoshi Protocol**, covering multiple versions and components of the protocol. These audits were conducted by independent third-party firms to ensure the security, robustness, and reliability of the system.  
+This repository contains the security audit reports for **River**, covering multiple versions and components of the protocol. These audits were conducted by independent third-party firms to ensure the security, robustness, and reliability of the system.  
 
 ## **Audit Reports Included**  
 
-### **Satoshi Protocol V1 Audits**  
-- 📄 **Satoshi_Protocol_v1_Audit_Report_Billh.pdf**
-- 📄 **Satoshi_Protocol_v1_Audit_Report_Scalebit.pdf**
-- 📄 **Satoshi_Protocol_v1_Audit_Report_Supremacy.pdf**
-- 📄 **Satoshi_Protocol_OSHI_Audit_Report_Scalebit.pdf**
+### **River V1 Audits**  
+- 📄 **River_v1_Audit_Report_Billh.pdf**
+- 📄 **River_v1_Audit_Report_Scalebit.pdf**
+- 📄 **River_v1_Audit_Report_Supremacy.pdf**
+- 📄 **River_OSHI_Audit_Report_Scalebit.pdf**
 
-### **Satoshi Protocol V2 Audits**  
-- 📄 **Satoshi_Protocol_v2_Audit_Report_Billh.pdf** 
+### **River V2 Audits**  
+- 📄 **River_v2_Audit_Report_Billh.pdf** 
 
-### **Satoshi Farm Audits**  
-- 📄 **Satoshi_Farm_Audit_Report_Billh.pdf**
-- 📄 **Satoshi_Farm_Audit_Report_Zenith.pdf**
+### **River Farm Audits**  
+- 📄 **River_Farm_Audit_Report_Billh.pdf**
+- 📄 **River_Farm_Audit_Report_Zenith.pdf**
+
+### **River Smart Vault Audits**  
+- 📄 **River_Smart_Vault_Audit_Report_Zellic.pdf**
+
 
 ## **Purpose of These Audits**  
 The security audits focus on:  
@@ -33,4 +37,4 @@ The security audits focus on:
 ## **Disclaimer**  
 These audit reports provide **security assessments** but do not guarantee complete risk elimination. Users should exercise caution and conduct their own due diligence before interacting with the protocol.  
 
-For more information, visit **[Satoshi Protocol](https://satoshiprotocol.org)**.
+For more information, visit **[River](https://river.inc)**.
