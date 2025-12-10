@@ -22,6 +22,9 @@ This repository contains the security audit reports for **River**, covering mult
 ### **River Smart Vault Audits**  
 - 📄 **River_Smart_Vault_Audit_Report_Zellic.pdf**
 
+### **River Point Conversion 2.0 Audits**  
+- 📄 **River_Point_ConversionV2_Audit_Report_Supremacy.pdf**
+
 
 ## **Purpose of These Audits**  
 The security audits focus on:  
